@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ishatjha (Ishat Kumar Jha)
+- 👀 I’m interested in WebDev, Competitive Programming, Cricket etc. 
+- 🌱 I’m currently learning Node JS
+- 📫 How to reach me :- 
+- 1) CODEFORCES = @ishat_jha'
+- 2) LinkedIn = Ishat Kumar Jha
